@@ -1,0 +1,14 @@
+<svg width="250" height="350" viewBox="0 0 250 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="juiceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FBBF24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F59E0B;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="50" y="80" width="150" height="200" rx="10" fill="url(#juiceGradient)"/>
+  <rect x="50" y="80" width="150" height="200" rx="10" stroke="#333" stroke-width="2" fill="none"/>
+  <ellipse cx="125" cy="80" rx="75" ry="20" fill="#FCD34D" stroke="#333" stroke-width="2"/>
+  <rect x="100" y="60" width="50" height="25" rx="5" fill="#F3F4F6" stroke="#333" stroke-width="2"/>
+  <text x="125" y="160" font-size="32" font-weight="bold" text-anchor="middle" fill="#333">JUICE</text>
+  <text x="125" y="190" font-size="14" text-anchor="middle" fill="#333">100% ORGANIC</text>
+</svg>
